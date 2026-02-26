@@ -17,7 +17,8 @@ python -m http.server 8000
 ```
 
 Ou use a extensão Live Server do VS Code para um reload automático.
-<img width="1004" height="928" alt="image" src="https://github.com/user-attachments/assets/61196ec3-7506-4c69-8708-02227c8749d6" />
+<img width="1166" height="829" alt="image" src="https://github.com/user-attachments/assets/742c28d3-498e-45f1-9062-236a90e5f4a6" />
+
 
 
 ### Estrutura do projeto
